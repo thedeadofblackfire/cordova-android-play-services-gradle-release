@@ -18,9 +18,9 @@
         <hook type="before_build" src="scripts/apply-changes.js" />
         <hook type="after_plugin_install" src="scripts/apply-changes.js" />
 
-        <preference name="play-services-ads" default="18.0.0" />
-        <preference name="play-services-ads-identifier" default="17.0.0" />
-        <preference name="play-services-ads-lite" default="18.0.0" />
+        <preference name="play-services-ads" default="24.2.0" />
+        <preference name="play-services-ads-identifier" default="18.2.0" />
+        <preference name="play-services-ads-lite" default="24.0.0" />
         <preference name="play-services-afs-native" default="17.0.0" />
         <preference name="play-services-analytics" default="17.0.0" />
         <preference name="play-services-analytics-impl" default="17.0.0" />
